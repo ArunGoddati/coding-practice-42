@@ -1,0 +1,43 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.home-and-about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.website-logo {
+  height: 40px;
+  width: 40px;
+}
+.moon-image {
+  height: 40px;
+  width: 40px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.dark-container {
+  background-color: #334155;
+}
+.light-container {
+  background-color: #ffffff;
+}
+.heading-dark {
+  font-family: 'roboto';
+  font-size: 15px;
+  margin-right: 5px;
+  color: #dcdcdc;
+  list-style-type: none;
+}
+.heading-light {
+  font-family: 'roboto';
+  font-size: 15px;
+  margin-right: 5px;
+  color: #1e293b;
+  list-style-type: none;
+}
